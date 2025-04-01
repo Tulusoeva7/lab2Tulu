@@ -1,0 +1,7 @@
+#version 410 core
+out vec4 FragColor;
+uniform float timeValue;
+void main() {
+    float greenValue = (sin(timeValue) / 2.0) + 0.5;
+    FragColor = vec4(0.0, greenValue, 1.0, 1.0);
+}

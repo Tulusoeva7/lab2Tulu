@@ -1,0 +1,3 @@
+﻿  Projectte.cpp
+C:\Projectte\Projectte.cpp(97,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Projectte.vcxproj -> C:\Projectte\x64\Debug\Projectte.exe
